@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: bdy60ce6p-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/bdy60ce6p-dotnet-basic
